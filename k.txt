@@ -1,0 +1,3 @@
+public class MainClass{
+	public static void main(String[] args){
+        Associate associate = new Associate(2222,3000,"AVANI","REDDY","ECE","ANALYST","HQBL11111","savanireddy@gmail.com"
